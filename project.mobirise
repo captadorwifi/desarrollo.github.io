@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "digitalm4",
       "title": "DigitalM4",
@@ -50,8 +50,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Sudominio .cl  y sitio web",
+        "meta_descr": "Tener su dominio .cl y sitio web es fácil.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
